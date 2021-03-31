@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fuse-ropsten/static/css/main.2ecc5f76.chunk.css",
+    "main.js": "/fuse-ropsten/static/js/main.5d5caa2c.chunk.js",
+    "main.js.map": "/fuse-ropsten/static/js/main.5d5caa2c.chunk.js.map",
+    "runtime-main.js": "/fuse-ropsten/static/js/runtime-main.67d11d52.js",
+    "runtime-main.js.map": "/fuse-ropsten/static/js/runtime-main.67d11d52.js.map",
+    "static/js/2.07263af7.chunk.js": "/fuse-ropsten/static/js/2.07263af7.chunk.js",
+    "static/js/2.07263af7.chunk.js.map": "/fuse-ropsten/static/js/2.07263af7.chunk.js.map",
+    "static/js/3.2c9e72b5.chunk.js": "/fuse-ropsten/static/js/3.2c9e72b5.chunk.js",
+    "static/js/3.2c9e72b5.chunk.js.map": "/fuse-ropsten/static/js/3.2c9e72b5.chunk.js.map",
+    "index.html": "/fuse-ropsten/index.html",
+    "static/css/main.2ecc5f76.chunk.css.map": "/fuse-ropsten/static/css/main.2ecc5f76.chunk.css.map",
+    "static/js/2.07263af7.chunk.js.LICENSE.txt": "/fuse-ropsten/static/js/2.07263af7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67d11d52.js",
+    "static/js/2.07263af7.chunk.js",
+    "static/css/main.2ecc5f76.chunk.css",
+    "static/js/main.5d5caa2c.chunk.js"
+  ]
+}
