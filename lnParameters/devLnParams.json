@@ -53,6 +53,7 @@
         "isNativeCoin": false
       }
     ],
-    "name": "LocalCoolNet"
+    "name": "LocalCoolNet",
+    "lnHomePage": "https://www.fuse.io/"
   }
 ]
