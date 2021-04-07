@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dev-ropsten/static/css/main.2ecc5f76.chunk.css",
-    "main.js": "/dev-ropsten/static/js/main.cc3d6ceb.chunk.js",
-    "main.js.map": "/dev-ropsten/static/js/main.cc3d6ceb.chunk.js.map",
+    "main.js": "/dev-ropsten/static/js/main.2ded5ca0.chunk.js",
+    "main.js.map": "/dev-ropsten/static/js/main.2ded5ca0.chunk.js.map",
     "runtime-main.js": "/dev-ropsten/static/js/runtime-main.5280d3be.js",
     "runtime-main.js.map": "/dev-ropsten/static/js/runtime-main.5280d3be.js.map",
-    "static/js/2.0983505f.chunk.js": "/dev-ropsten/static/js/2.0983505f.chunk.js",
-    "static/js/2.0983505f.chunk.js.map": "/dev-ropsten/static/js/2.0983505f.chunk.js.map",
+    "static/js/2.6782eb95.chunk.js": "/dev-ropsten/static/js/2.6782eb95.chunk.js",
+    "static/js/2.6782eb95.chunk.js.map": "/dev-ropsten/static/js/2.6782eb95.chunk.js.map",
     "static/js/3.e25d8714.chunk.js": "/dev-ropsten/static/js/3.e25d8714.chunk.js",
     "static/js/3.e25d8714.chunk.js.map": "/dev-ropsten/static/js/3.e25d8714.chunk.js.map",
     "index.html": "/dev-ropsten/index.html",
     "static/css/main.2ecc5f76.chunk.css.map": "/dev-ropsten/static/css/main.2ecc5f76.chunk.css.map",
-    "static/js/2.0983505f.chunk.js.LICENSE.txt": "/dev-ropsten/static/js/2.0983505f.chunk.js.LICENSE.txt"
+    "static/js/2.6782eb95.chunk.js.LICENSE.txt": "/dev-ropsten/static/js/2.6782eb95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5280d3be.js",
-    "static/js/2.0983505f.chunk.js",
+    "static/js/2.6782eb95.chunk.js",
     "static/css/main.2ecc5f76.chunk.css",
-    "static/js/main.cc3d6ceb.chunk.js"
+    "static/js/main.2ded5ca0.chunk.js"
   ]
 }
