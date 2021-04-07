@@ -2,6 +2,7 @@
   {
     "id": "",
     "unitrollerAddress": "",
+    "maximillionAddress": "",
     "chainId": "1337",
     "distributionAssetParameters": {
       "symbol": "WFUSE",
