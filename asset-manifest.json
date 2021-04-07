@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dev-ropsten/static/css/main.2ecc5f76.chunk.css",
-    "main.js": "/dev-ropsten/static/js/main.ea08213d.chunk.js",
-    "main.js.map": "/dev-ropsten/static/js/main.ea08213d.chunk.js.map",
+    "main.js": "/dev-ropsten/static/js/main.7ba18e48.chunk.js",
+    "main.js.map": "/dev-ropsten/static/js/main.7ba18e48.chunk.js.map",
     "runtime-main.js": "/dev-ropsten/static/js/runtime-main.5280d3be.js",
     "runtime-main.js.map": "/dev-ropsten/static/js/runtime-main.5280d3be.js.map",
     "static/js/2.0983505f.chunk.js": "/dev-ropsten/static/js/2.0983505f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5280d3be.js",
     "static/js/2.0983505f.chunk.js",
     "static/css/main.2ecc5f76.chunk.css",
-    "static/js/main.ea08213d.chunk.js"
+    "static/js/main.7ba18e48.chunk.js"
   ]
 }
